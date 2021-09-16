@@ -145,7 +145,7 @@ The following guidelines to set up your models and API routes:
 
 ## GitHub Link
  
- https://github.com/sindhu-sp/blog
+https://github.com/sindhu-sp/my_media_app
 
 ## Technologies Used:
 - Mongoose
