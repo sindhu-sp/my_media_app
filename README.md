@@ -113,7 +113,7 @@ The following guidelines to set up your models and API routes:
 
 ## Demo
 
-### GET/api/users, GET/api/users/:id, GET/api/usthoughts, GET/api/thoughts/:id,
+### GET/api/users, GET/api/users/:id, GET/api/thoughts, GET/api/thoughts/:id,
 <img src="./assets/GET.gif" alt="refresh page" height = 600 width= 600 />
 <br/>
 <br/>
